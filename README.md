@@ -306,10 +306,10 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 ## Author
 
-**Sarvesh Kumar Sharma**
+**Abhinav Garg**
 
-- GitHub: [@shsarv](https://github.com/shsarv)
-- LinkedIn: [in/shsarv](https://linkedin.com/in/shsarv)
+- GitHub: [@NAV114](https://github.com/NAV114)
+- LinkedIn: [in/abhinav-garg](https://www.linkedin.com/in/abhinav-garg-423022250/)
 
 ---
 
